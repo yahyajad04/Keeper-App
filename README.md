@@ -54,18 +54,19 @@ npm install
 cd ../Keeper-App-Frontend
 npm install
 ```
+
 ### 3. Change Database Info
 
 1. Go to the index.js file in the backend.
 2. Change the db constant values to the values of your local database to work correctly.
 
-### 3. Start the backend
+### 4. Start the backend
 
 ```bash
 node index.js
 ```
 
-### 4. Start the frontend
+### 5. Start the frontend
 
 Open another terminal:
 
@@ -74,7 +75,7 @@ cd Keeper-App-Frontend
 npm run dev
 ```
 
-### 5. Open the application
+### 6. Open the application
 
 Open your browser and navigate to the URL shown by Vite (typically `http://localhost:5173`).
 
