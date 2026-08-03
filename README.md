@@ -1,6 +1,6 @@
 # Keeper App
 
-A simple note-taking web application built with **React**, **Node.js**, and **MongoDB**. Users can create an account, log in, and manage their personal notes. Each user's notes are stored securely in the database and are only accessible after authentication.
+A simple note-taking web application built with **React**, **Node.js**, and **PostgreSQL**. Users can create an account, log in, and manage their personal notes. Each user's notes are stored securely in the database and are only accessible after authentication.
 
 ## Features
 
